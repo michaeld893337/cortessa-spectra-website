@@ -1,0 +1,118 @@
+WEBVTT
+
+00:00:00.250 --> 00:00:04.710
+Cortessa Spectra is a research prototype for reviewing hyperspectral measurements.
+
+00:00:05.250 --> 00:00:09.370
+It brings the scene, the spectrum, and the evidence behind a candidate finding
+
+00:00:09.370 --> 00:00:13.950
+into one workspace. In this walkthrough, we will follow a region from its initial
+
+00:00:13.950 --> 00:00:15.890
+alarm to a recorded human assessment.
+
+00:00:16.990 --> 00:00:22.790
+We begin with a prepared research scene. This example contains plastic objects
+
+00:00:22.790 --> 00:00:27.550
+measured under controlled water conditions. The scene selector lets us move between
+
+00:00:27.550 --> 00:00:32.190
+available measurements, while the method selector chooses the detector output to
+
+00:00:32.190 --> 00:00:36.450
+inspect. An ordinary photograph alone would not provide the spectral information
+
+00:00:36.450 --> 00:00:37.090
+used here.
+
+00:00:38.050 --> 00:00:40.830
+The list on the left ranks regions for review.
+
+00:00:41.230 --> 00:00:45.530
+Selecting a region highlights its position in amber and updates the evidence panel.
+
+00:00:46.090 --> 00:00:51.150
+These are model alarms, not confirmed identifications. The surrounding scene matters:
+
+00:00:51.670 --> 00:00:56.610
+a strong response can still come from a confusing background or an unreliable calibration.
+
+00:00:57.750 --> 00:01:03.310
+Now look at the spectral view. Blue shows the measured spectrum; teal shows the
+
+00:01:03.310 --> 00:01:07.810
+nearest plastic training reference. The shape of these curves helps the analyst
+
+00:01:07.810 --> 00:01:13.470
+examine the proposed match. A similar curve does not, by itself, establish a polymer
+
+00:01:13.470 --> 00:01:16.590
+identity. The response score is not a probability.
+
+00:01:17.850 --> 00:01:22.230
+Changing the scene introduces different backgrounds and visible vegetation.
+
+00:01:22.970 --> 00:01:27.550
+Spectra keeps the selected region, its reference, and the comparator responses
+
+00:01:27.550 --> 00:01:32.510
+together. Agreement can motivate further inspection, but it is not proof.
+
+00:01:33.090 --> 00:01:38.290
+Disagreement is also useful: it points to a finding that needs a closer look rather
+
+00:01:38.290 --> 00:01:39.670
+than an automatic conclusion.
+
+00:01:40.750 --> 00:01:46.050
+The analyst can mark a region as plastic likely, plastic unlikely, or insufficient
+
+00:01:46.050 --> 00:01:51.590
+evidence. Here, the demonstration records insufficient evidence and adds an explanatory
+
+00:01:51.590 --> 00:01:57.070
+note. That judgement belongs to the reviewer. The export control saves the review
+
+00:01:57.070 --> 00:02:00.590
+as structured data, so the assessment can be retained for follow-up.
+
+00:02:01.490 --> 00:02:06.570
+The measured evaluation screen compares methods, detections, and false alarms.
+
+00:02:07.290 --> 00:02:12.430
+It also exposes a failed acceptance result. This matters: detecting more labelled
+
+00:02:12.430 --> 00:02:16.090
+plastic is not an improvement if the method also flags the background.
+
+00:02:16.830 --> 00:02:21.690
+These indoor research results have important limitations and do not establish reliable
+
+00:02:21.690 --> 00:02:22.510
+field performance.
+
+00:02:23.750 --> 00:02:30.170
+Today, Spectra provides a working evidence-review workflow. Reliable material identification
+
+00:02:30.170 --> 00:02:35.190
+across independent scenes, a detection advantage over established methods, and
+
+00:02:35.190 --> 00:02:39.990
+reduced analyst workload remain to be demonstrated. The next step is qualified
+
+00:02:39.990 --> 00:02:45.010
+measured data, fair comparisons, and evaluation criteria fixed before testing.
+
+00:02:46.090 --> 00:02:51.090
+Cortessa exists to help people discover what they might otherwise miss, and understand
+
+00:02:51.090 --> 00:02:53.070
+how much they can trust what they find.
+
+00:02:53.670 --> 00:02:58.730
+Spectra carries that purpose into material analysis. Explore the research prototype
+
+00:02:58.730 --> 00:03:01.290
+at Cortessa.co.uk.
